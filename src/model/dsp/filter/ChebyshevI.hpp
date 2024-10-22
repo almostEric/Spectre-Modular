@@ -86,7 +86,7 @@ if(count < 100) {
   }
 
   void calcChebyshevI() {
-    T norm;
+    // T norm;
     // T V = pow(10, fabs(peakGain) / 20.0);
     // T K = tan(M_PI * Fc);
 
